@@ -5,3 +5,7 @@ Version: 1.0
 Description: This theme for verify the wordpress
 Text Domain: aquila
 */
+
+h1{
+    color: red;
+}

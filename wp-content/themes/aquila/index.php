@@ -8,7 +8,7 @@
  get_header();
  ?>
 <div class="content">
-Hello from pp
+Hello from 
 
 </div>
 
